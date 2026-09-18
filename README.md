@@ -2,7 +2,7 @@
 
 Gerenciador gráfico de temas para XFCE: GTK, ícones, wallpaper, Rofi e Mousepad — com suporte a coleções (perfis) que aplicam tudo de uma vez.
 
-<img width="1900" height="1102" alt="image" src="https://github.com/user-attachments/assets/427978f4-6eda-46ef-86a2-0e506d3fe96b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a583f93-66c7-472e-b8c1-8653ece82667" />
 
 
 ## Recursos
