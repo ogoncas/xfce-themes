@@ -31,4 +31,4 @@ Salva em `~/.config/xfce-theme-manager/config.json` (pastas de wallpaper e cole√
 
 ## Licen√ßa
 
-MIT
+[MIT](https://raw.githubusercontent.com/ogoncas/xfce-themes/refs/heads/main/LICENSE)
